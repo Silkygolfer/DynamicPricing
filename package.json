@@ -1,0 +1,15 @@
+{
+  "name": "dynamic-pricing-website",
+  "version": "1.0.0",
+  "description": "Simple website that takes user inputs and returns an adjusted value",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Sellers",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
